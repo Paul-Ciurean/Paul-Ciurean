@@ -5,7 +5,7 @@ Barnsley, United Kingdom
 
 [![Website](https://img.shields.io/badge/Website-paulciurean.com-informational)](https://paulciurean.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ciprian--paul--ciurean-blue)](https://www.linkedin.com/in/ciprian-paul-ciurean-80386424b)
-[![YouTube](https://img.shields.io/badge/YouTube-@Ciprian--Paul--Ciurean-red)](https://www.youtube.com/channel/UCM_jWOxIUqNNlhQZSl6YiNQ)
+[![YouTube](https://img.shields.io/badge/YouTube-@Ciprian--Paul--Ciurean-red)](https://www.youtube.com/@AWSwithPaul)
 [![GitHub Org](https://img.shields.io/badge/Org-Paul--Ciurean--Projects-181717?logo=github)](https://github.com/Paul-Ciurean-Projects)
 
 I’m an **AWS-focused DevOps engineer** passionate about building reliable, secure, and scalable systems. I love turning manual processes into automated pipelines and designing well-structured cloud architectures.
