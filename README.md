@@ -65,14 +65,19 @@ I’m an **AWS-focused DevOps engineer** passionate about building reliable, sec
 
 ## 🏅 Certifications
 
-* AWS Security – Specialty
-* AWS Solutions Architect – Associate
-* AWS Developer – Associate
-* AWS SysOps – Associate
-* AWS Cloud – Practitioner
-* AWS AI – Practitioner
-* Terraform – Associate
-* GitHub Foundation
+<p align="center">
+ <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="SCS" width="110"/>
+ <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="DVA" width="110"/>
+ <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="SOA" width="110"/>
+ <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="SAA" width="110"/>
+ <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="CCP" width="110"/>
+ <img src="https://images.credly.com/size/340x340/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AI-EA" width="110"/>
+ <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="TCA" width="110"/>
+ <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="AIP" width="110"/>
+</p>
+
+
+
 
 Credly profile links available on my website.
 
